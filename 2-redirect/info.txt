@@ -1,0 +1,2 @@
+Redirect to file
+Append to file

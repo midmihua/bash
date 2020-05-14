@@ -1,0 +1,11 @@
+total 40
+drwxr-xr-x  10 ukr-dmytromykhailenko  staff   320B May 13 20:33 .
+drwxr-xr-x  13 ukr-dmytromykhailenko  staff   416B May 13 19:42 ..
+-rw-r--r--   1 ukr-dmytromykhailenko  staff     0B May 13 20:34 error1.txt
+-rw-r--r--   1 ukr-dmytromykhailenko  staff    35B May 13 20:34 error2.txt
+-rwxr-xr-x   1 ukr-dmytromykhailenko  staff   272B May 13 20:33 output.sh
+-rw-r--r--   1 ukr-dmytromykhailenko  staff   726B May 13 20:34 result1.txt
+-rw-r--r--   1 ukr-dmytromykhailenko  staff     0B May 13 20:34 result2.txt
+-rw-r--r--   1 ukr-dmytromykhailenko  staff     0B May 13 20:34 result3.txt
+-rw-r--r--   1 ukr-dmytromykhailenko  staff   726B May 13 20:33 result4.txt
+-rw-r--r--   1 ukr-dmytromykhailenko  staff    35B May 13 20:33 result5.txt
